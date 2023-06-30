@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:my_first_app/components/square.dart';
-import '../components/button.dart';
+import 'package:my_first_app/components/button.dart';
 import 'package:my_first_app/components/text.dart';
 
 class LoginPage  extends StatelessWidget {
