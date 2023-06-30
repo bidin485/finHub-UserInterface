@@ -15,7 +15,7 @@ class Square extends StatelessWidget{
       ),
       child: Image.asset(
         imagePath,
-        height: 40,
+        height: 14,
       ),
     );
   }
